@@ -1,0 +1,19 @@
+.footer{
+  background-color: blue;
+  padding: 20px 0;
+  margin-top: auto;
+}
+.container{
+  align-items: center;
+  display: flex;justify-content: space-between;
+}
+.link{
+  display: block;
+  line-height: 1;
+  height: min-content;
+}
+.text{
+  font-size: 18px;
+  text-align: center;
+  line-height: 22px;
+}
