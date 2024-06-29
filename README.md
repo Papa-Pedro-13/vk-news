@@ -2,7 +2,7 @@
 
 Тестовое задание для компании VK
 
-<h2><b>Стек frontend технологий:</b> React, TypeScript.</h2>
+<h2><b>Стек frontend технологий:</b> React, TypeScript, Vite.</h2>
 
 <h3>Инструкция по запуску:</h3>
 
